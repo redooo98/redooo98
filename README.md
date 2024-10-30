@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-💻 Mainly coding in: Python 🐍 and C#<br>🌐 Web development enthusiast: Especially enjoy building web apps with Django<br>🚀 Currently learning: C# and Blazor for building web apps with ASP.NET
+💻 Mainly coding in: Python and C#<br>🌐 Web development enthusiast: Especially enjoy building web apps with Django<br>🚀 Currently learning: C# and Blazor for building web apps with ASP.NET
 
 
 ## 🌐 Socials:
